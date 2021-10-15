@@ -1,0 +1,5 @@
+
+*.xcworkspacedata
+*.xcuserstate
+MyLib.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+MyLib.xcodeproj/xcuserdata/syefanov.xcuserdatad/xcschemes/xcschememanagement.plist
